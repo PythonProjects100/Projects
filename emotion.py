@@ -1,8 +1,8 @@
 import openai
 
-openai.api_key = '###'
-a=input('Enter the text: ')
-a=f'{a} (Write down the emotions in this text in ration)'
+openai.api_key = ''
+user_input=input('Enter the text: ')
+emotion=f'{user_input} (Write down the emotions in this text in one word:)',
 response = openai.Completion.create(
   model="text-davinci-003",
   prompt=a,

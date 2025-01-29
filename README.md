@@ -1,3 +1,4 @@
 # Projects
-These are my projets for further information you can visit my channel "https://www.youtube.com/channel/UCPlYtZRDR-XFh24TR_OoMZg"
-Thanks You!
+These are my projects.
+Aadim Gyawali
+started in 2020 AD
